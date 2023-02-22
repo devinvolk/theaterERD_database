@@ -1,7 +1,7 @@
 INSERT INTO customers(
     phone_num
 ) VALUES (
-    555-555-555
+    '555-555-555'
 );
 
 INSERT INTO movies(
