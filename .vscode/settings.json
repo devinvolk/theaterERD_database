@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://psnrwmly:TtsBN15UuGxJ_bLm0rKq4iGvfB7FeLkf@suleiman.db.elephantsql.com/psnrwmly",
+            "name": "sql2_hw"
+        }
+    ]
+}
